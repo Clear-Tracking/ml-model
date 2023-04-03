@@ -33,4 +33,9 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-### Application will be running on http://localhost:8000
+#### Application will be running on http://localhost:8000
+
+### Note:
+```
+Create folder named "images" in the root directory of the project. And add all images from aadhar card data with name as Aadhar Card Number.
+```
